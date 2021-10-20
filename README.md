@@ -1,5 +1,8 @@
 # Robotnet
 
+![robotnet-logo-small](https://user-images.githubusercontent.com/11771536/138139185-ffbca74d-9aec-491a-9a41-abfe203fc545.png)
+
+
 Our autonomous transport robots safely deliver medicine and goods to hospital wards. We keep healthcare workers and patients safe by reducing the risk of exposure to viruses and bacteria.
 
 ## Our problem
@@ -17,6 +20,8 @@ We are using state of the art 3D deep learning navigation algorithms combined wi
 ## Our robot platform
 
 The core of our solution is our robot platform which is able to safely carry 500 kg goods.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sohkfSJNnZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Our team
 
