@@ -1,9 +1,9 @@
 ![robotnet-logo-small](https://user-images.githubusercontent.com/11771536/138139185-ffbca74d-9aec-491a-9a41-abfe203fc545.png)
 
 
-Our autonomous transport robots safely deliver medicine and goods to hospital wards. We keep healthcare workers and patients safe by reducing the risk of exposure to viruses and bacteria.
+**Our autonomous transport robots safely deliver medicine and goods to hospital wards. We keep healthcare workers and patients safe by reducing the risk of exposure to viruses and bacteria.**
 
-## Our problem
+## The problem
 
 Hospital porters deliver medicine and goods to many wards in a large hospital. This puts them into a risk of catching or carrying viruses and bacteria. Hence they use excessive PPE (personal protective equipment) which takes time, slows down deliveries, reduces the amount of deliveris per person, and still holds the risk of infection.
 
