@@ -1,5 +1,3 @@
-# Robotnet
-
 ![robotnet-logo-small](https://user-images.githubusercontent.com/11771536/138139185-ffbca74d-9aec-491a-9a41-abfe203fc545.png)
 
 
