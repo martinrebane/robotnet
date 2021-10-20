@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 github: false
 show_downloads: false
 description: "Automated hospital logistics"
+title: "RobotNet"
