@@ -19,7 +19,7 @@ We are using state of the art 3D deep learning navigation algorithms combined wi
 
 The core of our solution is our robot platform which is able to safely carry 500 kg of goods.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sohkfSJNnZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="672" height="378" src="https://www.youtube.com/embed/sohkfSJNnZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Our team
 
