@@ -10,11 +10,16 @@ Hospital porters deliver medicine and goods to many wards in a large hospital. T
 
 Robotnet's automated hospital robots are part of our larger hospital indoor logistic solution. We automate robots, lifts and doors such that automatic deliveries are fast, safe and sustainable in large hospital buildings.
 
+## Our technology
+
+We are using state of the art 3D deep learning navigation algorithms combined with auxiliary safety algorithms to ensure safe operation.
+
 ## Our robot platform
 
 The core of our solution is our robot platform which is able to safely carry 500 kg goods.
 
 ## Our team
+
 
 ## Contact us
 
