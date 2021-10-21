@@ -21,9 +21,6 @@ The core of our solution is our robot platform which is able to safely carry 500
 
 <iframe width="672" height="378" src="https://www.youtube.com/embed/sohkfSJNnZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin: auto;"></iframe>
 
-## Our team
-
-
-## Contact us
+## Contact our team
 
 team@robotnet.co.uk
