@@ -30,4 +30,4 @@ team@robotnet.co.uk
 <img src="https://user-images.githubusercontent.com/11771536/140078074-b551c40c-068c-486e-897f-95f3716b240a.png" width="300" />
 
 <p>Supported by our founder's deep learning AI research at Uni Warwick</p>
-<img src="https://user-images.githubusercontent.com/11771536/140078741-7b1e7952-8a04-46c8-8a75-06d7f1e46c63.png" width="300" />
+<img src="https://user-images.githubusercontent.com/11771536/140078741-7b1e7952-8a04-46c8-8a75-06d7f1e46c63.png" width="200" />
